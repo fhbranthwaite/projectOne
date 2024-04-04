@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 5;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    width:100%;
+}
+
+h1 {
+    font-family: "HelveticaNeue-UltraLight", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+h6 {
+  margin: 0;
+  text-align: end;
+  padding-right: 30px;
+  font-size: 10px;
+  font-style: italic;
+}
+
+.header {
+    padding: 20px;
+}
+
+.blogging {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.galleryTitle {
+    font-weight: bold;
+}
+
+.container {
+    padding: 15;
+
+}
+
+    .img {
+        padding-left: 10em;
+    }

@@ -1,0 +1,11 @@
+<div class="artWorkDetail">
+  <div class="container">
+    <img ng-src="{{ artWorkDetail.url }}">
+    <p class="artWorkTitle"> {{ artWorkDetail.title}}</p>
+    <p class="artWorkDate"> {{ artWorkDetail.date | date :  "MMMM d, y" }} </p>
+    <p class="artWorkDescription"> {{ artWorkDetail.description }}</p>
+  </div>
+</div>
+  <div class="container">
+  <a class="btn btn-outline-success" href="gallery.html">BACK</button>
+  </div>

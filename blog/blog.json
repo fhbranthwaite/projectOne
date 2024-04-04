@@ -1,0 +1,33 @@
+{
+    "title": "BLOG",
+    "author": "Francesca Holly Branthwaite",
+    "blogs": [
+      {
+    "date": "2024-01-01",
+    "title": "Happy New Year",
+    "content": "Cheers to a Happy and Healty 2024!"
+      },
+      {
+    "date": "2024-01-07",
+    "title": "Week One Completed",
+    "content": "51 more weeks to go"
+      },
+      {
+    "date": "2024-01-29",
+    "title": "Resolutions still going strong",
+    "content": "I am on track to have completed my resolution for drawing each day"
+      },
+
+      {
+    "date": "2024-02-05",
+    "title": "Art Exhibition - Kendal",
+    "content": "The Brewery Arts - Kendal has got a art exhibition starting very soon 17th February 2024 - 13th April Atmospherics"
+      },
+
+      {
+    "date": "2024-02-16",
+    "title": "Exciting News",
+    "content": "I am hoping to be showing some of my new work soon - so please keep an eye out"
+      }
+    ]
+}

@@ -1,0 +1,39 @@
+[
+        {
+        "date": "2022-09-28",
+        "description": "This piece is from one of the first Art In The Bar classes I went to at the Brewery Arts, this was done by tracing lines over a printed image and under the photo I had done block colours with pastels.",
+        "title": "Cat Line Drawing",
+        "url": "http://127.0.0.1:5500/images/catline1.png"
+        },
+        {
+        "date": "2023-06-14",
+        "description": "Portrait using charcoal.",
+        "title": "Portrait of Evie",
+        "url": "http://127.0.0.1:5500/images/portrait.jpeg"
+        },
+        {
+        "date":"2024-01-23",
+        "description": "Vessel Drawing - this class was to teach us to draw to the correct size in relation to other objects.",
+        "title": "Fine Line Drawing of Various Objects",
+        "url": "http://127.0.0.1:5500/images/objectsvessel.jpg"
+        },
+        {
+        "date":"2024-02-06",
+        "description": "As you can see from behind the easel we had a number of objects together, the aim was to draw negative space.",
+        "title": "Negative Space Drawing",
+        "url": "http://127.0.0.1:5500/images/negativespace.jpg"
+        },
+        {
+        "date":"2024-02-27",
+        "description":"Scribble Technique - I have used a light and dark pastel to show both the light and dark in the rose.",
+        "title": "Red Rose",
+        "url":"http://127.0.0.1:5500/images/rose.jpg"
+        },
+        {
+        "date":"2024-03-05",
+        "description":"Group Project - as a group we each got a section of a Chuck Close Portrait and put it together at the end.",
+        "title": "Grid Group Project",
+        "url": "http://127.0.0.1:5500/images/chuckclose.jpg"      
+        }
+]
+
